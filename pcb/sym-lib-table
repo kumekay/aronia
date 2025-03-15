@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "aronia")(type "KiCad")(uri "${KIPRJMOD}/aronia.kicad_sym")(options "")(descr ""))
+)
