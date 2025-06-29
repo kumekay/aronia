@@ -2,6 +2,8 @@
 
 A 36-key, ultra-compact, foldable, ergonomic keyboard. It's designed to be as small as possible while remaining comfortable for typing. When folded, the keyboard measures only 100x100x12mm and weighs 115g.
 
+![Aronia Keyboard](photos/aronia.jpeg)
+
 > [!WARNING]
 > The current prototypes are functional but not perfect. Soldering the switches on a hot plate is extremely challenging. Be prepared for multiple attempts and have spare switches on hand.
 
@@ -13,9 +15,9 @@ The hardware is designed in the [KiCad](https.org/) EDA suite. The PCB is design
 
 The firmware is based on the [ZMK project](https://zmkfirmware.dev/) and uses a layout based on [Miryoku](https://github.com/manna-harbour/miryoku). The source code is available at [https://github.com/kumekay/miryoku_zmk](https://github.com/kumekay/miryoku_zmk).
 
-## Bill of Materials (BOM)
+## Bill of Materials (BOM) for final assembly
 
-- 1x PCB
+- 1x PCB (fully soldered)
 - 2mm brass rod (for the axle), ~20cm
 - 3D-printed parts:
   - 1x Left top case
@@ -41,7 +43,8 @@ This project is licensed under the CERN Open Hardware Licence Version 2 - Strong
 > [!NOTE]
 > The original working name for this project was "mymikla" ("My Milujeme Klávesnici," which is Czech for "We Love Keyboards"). Some files may still use this name.
 
+## Couple more photos
 
-## License
+![folded](photos/aronia_folded.jpeg)
 
-
+![side view](photos/aronia_side.jpeg)
