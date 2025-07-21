@@ -1,6 +1,6 @@
 # Aronia Keyboard
 
-A 36-key, ultra-compact, foldable, ergonomic keyboard. It's designed to be as small as possible while remaining comfortable for typing. When folded, the keyboard measures only 100x100x12mm and weighs 115g.
+A 36-key, ultra-compact, foldable, ergonomic keyboard. It's designed to be as small as possible while remaining comfortable for typing. When folded, the keyboard measures only 76x115x12mm and weighs 115g.
 
 ![Aronia Keyboard](photos/aronia.jpeg)
 
